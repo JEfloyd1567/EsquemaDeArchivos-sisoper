@@ -1,0 +1,10 @@
+para ver como funciona este codigo se debe realizar los siguientes pasos:
+en la terminal de su maquina sobre el directorio que tenga los archivos ponga lo siguiente:
+
+gcc -o eda EsquemaDeArchivos.c
+
+y despues escriba en la terminal:
+
+./eda
+
+Por ultimo el menu indicara que debe hacer.
